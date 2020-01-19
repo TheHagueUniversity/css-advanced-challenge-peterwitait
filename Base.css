@@ -1,0 +1,54 @@
+/*
+COLOR PALETTE
+#F5F5DC - off white
+#FE2B2B - red
+#F9F115 - yellow
+#0291FE - blue
+#030D15 - black
+*/
+
+/* Background colours
+------------------------------------*/
+body, html {
+    background-color: #F5F5DC;
+}
+
+/* Defining box sizes
+------------------------------------*/
+#painting {
+    background-color: #F5F5DC;
+    width: 800px;
+    height: 1600px;
+}
+
+#bigbox1 {
+    width: 200px;
+    height: 200px;
+}
+#bigbox {
+    width: 400px;
+    height: 400px;
+}
+#mediumbox1 {
+  width: 200px;
+  height: 100px;
+}
+#mediumbox2 {
+  width: 100px;
+  height: 200px;
+}
+#smallbox {
+  width: 100px;
+  height: 100px;
+}
+#longbox1 {
+  width: 100px;
+  height: 300px;
+}
+#longbox {
+  width: 300px;
+  height: 100px;
+}
+.red {
+    background-color: #FE2B2B;
+}
